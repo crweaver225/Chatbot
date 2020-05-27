@@ -1,0 +1,3 @@
+/home/christopher/Desktop/Chatbot/build/CMakeFiles/rebuild_cache.dir
+/home/christopher/Desktop/Chatbot/build/CMakeFiles/membot.dir
+/home/christopher/Desktop/Chatbot/build/CMakeFiles/edit_cache.dir
